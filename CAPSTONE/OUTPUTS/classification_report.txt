@@ -1,0 +1,36 @@
+DeepFishVision - Classification Report
+============================================================
+
+Accuracy : 64.55%
+Precision: 61.48%
+Recall   : 64.55%
+F1 Score : 60.64%
+
+                           precision    recall  f1-score   support
+
+      Abudefduf vaigiensi       1.00      0.60      0.75         5
+   Acanthurus nigrofuscus       0.00      0.00      0.00         5
+       Amphiprion clarkii       1.00      0.20      0.33         5
+     Balistapus undulatus       0.62      1.00      0.77         5
+   Canthigaster valentini       0.00      0.00      0.00         5
+      Chaetodon lunulatus       0.62      1.00      0.77         5
+   Chaetodon trifascialis       0.33      0.40      0.36         5
+         Chromis chrysura       0.22      0.40      0.29         5
+    Dascyllus reticulatus       0.00      0.00      0.00         5
+      Hemigymnus fasciatu       0.83      1.00      0.91         5
+    Hemigymnus melapterus       0.75      0.60      0.67         5
+          Lutjanus fulvus       0.83      1.00      0.91         5
+       Myripristis kuntee       0.80      0.80      0.80         5
+        Neoniphon sammara       1.00      1.00      1.00         5
+   Pempheris vanicolensis       0.71      1.00      0.83         5
+Plectroglyphidodon dickii       0.00      0.00      0.00         5
+  Pomacentrus moluccensis       0.83      1.00      0.91         5
+                 Scaridae       0.83      1.00      0.91         5
+      Scolopsis bilineata       0.75      0.60      0.67         5
+       Siganus fuscescens       0.80      0.80      0.80         5
+         Zanclus cornutus       1.00      1.00      1.00         5
+         Zebrasoma scopas       0.57      0.80      0.67         5
+
+                 accuracy                           0.65       110
+                macro avg       0.61      0.65      0.61       110
+             weighted avg       0.61      0.65      0.61       110
